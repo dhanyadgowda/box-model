@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+body{
+    box-sizing: border-box;
+    font-family: "Lora", serif;
+}
+.box{
+    width: 380px;
+    margin: 8px auto;
+    border: 1px solid rgb(233, 219, 219);
+    border-radius: 8px;
+    padding: 10px ;
+    text-align: center;
+}
+.box-img{
+    width: 100px;
+    border-radius: 50%;
+    
+}
+.font{
+    font-size: 14px;
+    color: rgb(99, 91, 91);
+}
